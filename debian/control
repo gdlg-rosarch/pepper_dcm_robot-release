@@ -1,0 +1,12 @@
+Source: ros-kinetic-pepper-dcm-msgs
+Section: misc
+Priority: extra
+Maintainer: Natalia Lyubova <natalia.lyubova@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-pepper-dcm-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-message-runtime, ros-kinetic-std-msgs
+Description: Message, service and action declarations for Pepper robot
