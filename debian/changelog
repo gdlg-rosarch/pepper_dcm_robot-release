@@ -1,0 +1,10 @@
+ros-kinetic-pepper-dcm-msgs (0.0.1-0jessie) jessie; urgency=high
+
+  * fixing the source link
+  * adding CHANGELOG.rst
+  * initial commit
+  * Contributors: Karsten Knese, Natalia Lyubova
+
+ -- Natalia Lyubova <natalia.lyubova@gmail.com>  Thu, 15 Sep 2016 22:00:00 -0000
+
+
