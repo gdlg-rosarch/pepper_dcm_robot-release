@@ -4,7 +4,6 @@ The packages in the `pepper_dcm_robot` repository were released into the `kineti
 
 These packages were released:
 - `pepper_dcm_bringup`
-- `pepper_dcm_msgs`
 
 Version of package(s) in repository `pepper_dcm_robot`:
 
@@ -29,7 +28,6 @@ The packages in the `pepper_dcm_robot` repository were released into the `jade` 
 
 These packages were released:
 - `pepper_dcm_bringup`
-- `pepper_dcm_msgs`
 
 Version of package(s) in repository `pepper_dcm_robot`:
 
@@ -54,7 +52,6 @@ The packages in the `pepper_dcm_robot` repository were released into the `indigo
 
 These packages were released:
 - `pepper_dcm_bringup`
-- `pepper_dcm_msgs`
 
 Version of package(s) in repository `pepper_dcm_robot`:
 
