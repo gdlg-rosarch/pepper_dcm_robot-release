@@ -1,3 +1,26 @@
+## pepper_dcm_robot (jade) - 0.0.3-0
+
+The packages in the `pepper_dcm_robot` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade pepper_dcm_robot` on `Thu, 22 Dec 2016 16:31:59 -0000`
+
+The `pepper_dcm_bringup` package was released.
+
+Version of package(s) in repository `pepper_dcm_robot`:
+
+- upstream repository: https://github.com/ros-naoqi/pepper_dcm_robot.git
+- release repository: https://github.com/ros-naoqi/pepper_dcm_robot-release.git
+- rosdistro version: `0.0.1-0`
+- old version: `0.0.1-0`
+- new version: `0.0.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## pepper_dcm_robot (indigo) - 0.0.3-0
 
 The packages in the `pepper_dcm_robot` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo pepper_dcm_robot` on `Thu, 22 Dec 2016 16:28:20 -0000`
