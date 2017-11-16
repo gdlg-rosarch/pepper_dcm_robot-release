@@ -1,0 +1,12 @@
+Source: ros-indigo-pepper-dcm-bringup
+Section: misc
+Priority: extra
+Maintainer: Natalia Lyubova <natalia.lyubova@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://wiki.ros.org/pepper_dcm_bringup
+Standards-Version: 3.9.2
+
+Package: ros-indigo-pepper-dcm-bringup
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-naoqi-dcm-driver, ros-indigo-pepper-control, ros-indigo-rospy
+Description: Bring-up the dcm driver to control Pepper
